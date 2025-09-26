@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Joseph Greaves
+# 👋 Hi, I'm Joseph Greaves 👋
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ae4026a7-707a-4ebd-a1fb-b9d0e754a410" alt="Description" />
