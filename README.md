@@ -39,7 +39,6 @@ At the moment, my main focus is furthering my education in programming languages
 
 ![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joseph-G-Cyber&show_icons=true&hide_title=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph-G-Cyber&layout=compact)
-![Profile views](https://komarev.com/ghpvc/?username=Joseph-G-Cyber&color=blue)
 
 ---
 
