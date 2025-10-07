@@ -1,0 +1,30 @@
+Computer Programming lecture 1 25/09/25:
+
+A program is:
+a set of instructions
+To express how to solve a problem or perform a task
+Written in a specialised language
+That can be executed by a computer
+And read and understood by other programmers
+
+Sequence:
+Steps are carried out in order, one at a time
+
+Selection:
+Some steps are included, or omitted, depending on some condition
+
+Iteration:
+Some steps are repeated, until something happens
+
+Instructions are read much more than they are written. So are programs. Programs (code) are read much more often than they are written. The ration is something like 10:1. Code is read for validation, or for maintenance.
+
+We can understand programs because:
+There are words that we recognise
+Various names of things have been chosen to help a reader
+We can take reasonable guesses
+
+To be a programmer you need to be able to find problems, understand the causes and fix them. Break down large programs / Ideas into smaller ideas.
+
+Programmers are good at programming because they have experience. They have seen all the problems before and they know how to solve them.
+
+Experience is the key to programming. It is the key to all skills. Gain it by practice and making mistakes.
