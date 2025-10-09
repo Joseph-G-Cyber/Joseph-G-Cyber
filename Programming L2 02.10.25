@@ -1,25 +1,95 @@
-Computer Programming lecture 2 - 02/10/25:
+# Computer Programming Lecture 2 - 02/10/25
 
-Why do we have computers?
- Computers are really good at carrying out repetitive tasks. They are accurate, fast, and can work for long periods of time. Humans on the other hand are not the best at repetitive tasks, in fact they are really inefficient.
+## Why Do We Have Computers?
 
-A computer that carries out a specific task very quickly has its uses. But if we can program it to do different tasks, then we can use the same computer for different purposes (This is MUCH more useful).
+Computers are really good at carrying out repetitive tasks. They are accurate, fast, and can work for long periods of time.  
+Humans, on the other hand, are not the best at repetitive tasks — in fact, they are really inefficient.
 
-First generation programming:
-Colossus was programmed using plugs and switches. This might represent a very early form of program.
-Early programming was very low-level, and very specific to the hardware. Every computer was programmed in a different way.
-This programming requires a very detailed knowledge of how the specific computer worked.
+A computer that carries out a specific task very quickly has its uses.  
+But if we can **program it to do different tasks**, then we can use the same computer for different purposes (this is **much more useful**).
 
- -Von Neumen Architecture
+---
 
-Second generation programming:
-Programming moved to a higher level with the introduction of assembly languages. These can be thought of as short codes that correspond to the basic operations of the computer.
-Assembly languages are still very low-level and specific to the CPU. 
+## First Generation Programming
 
-Example of Assembly 
+**Colossus** was programmed using plugs and switches. This might represent a very early form of a program.  
+Early programming was very low-level and very specific to the hardware — every computer was programmed in a different way.  
+This kind of programming required a very detailed knowledge of how the specific computer worked.
 
-Third Generation Programming:
-The next step in development was to move to a higher level, with programs expressed in a more human friendly format.
-This means the need is created for tools to translate a program into low level language capable for the CPU to understand.
+### Von Neumann Architecture
 
-24:21
+---
+
+## Second Generation Programming
+
+Programming moved to a higher level with the introduction of **assembly languages**.  
+These can be thought of as short codes that correspond to the basic operations of the computer.  
+Assembly languages are still very low-level and specific to the CPU.
+
+### Example of Assembly
+
+MOV AX, 1
+ADD AX, 2
+
+
+---
+
+## Third Generation Programming
+
+The next step in development was to move to a higher level, with programs expressed in a more human-friendly format.  
+This created the need for tools to translate a program into a low-level language capable of being understood by the CPU.
+
+### Third Generation Languages
+
+Since this idea emerged, there have been many programming languages.  
+Some have aimed to be general-purpose, while others target specific applications.
+
+- **FORTRAN** – for maths and science  
+- **COBOL** – for business  
+- **C** – procedural  
+- **Java, C#** – object-oriented  
+- **Haskell, Scala** – functional  
+
+Some languages are **multi-paradigm**, supporting multiple programming styles.
+
+---
+
+## Compilers and Interpreters
+
+There are two distinct ways to translate high-level languages into low-level instructions:
+
+### Compiler
+
+A **compiler** translates the entire program into low-level instructions (stored in a separate file) *before* it is run.  
+Compiled programs tend to execute very quickly, but the compilation step can take a while.
+
+### Interpreter
+
+An **interpreter** translates the program into low-level instructions *as it runs*.  
+The instructions are executed immediately, so there is no separate file.  
+Interpreted programs tend to execute more slowly, but the translation step is very quick.
+
+#### Examples
+
+- **Compiler Languages:** C, C++  
+  - Run quickly and are highly symbolic  
+
+- **Interpreter Languages:** Python, PHP, JavaScript  
+  - Run slower but are very easy to use  
+
+---
+
+## Python
+
+Python is a **high-level**, **interpreted**, **general-purpose** programming language.  
+It is designed to be easy to read and write, with a simple syntax that emphasises readability.
+
+### Advantages
+- Great for **rapid development** and **experimentation**
+- Simple and expressive syntax
+
+### Disadvantages
+- Not ideal if a program needs to **run very quickly**
+- Not well-suited for **high memory efficiency**
+
+---
