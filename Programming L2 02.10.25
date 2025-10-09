@@ -1,0 +1,25 @@
+Computer Programming lecture 2 - 02/10/25:
+
+Why do we have computers?
+ Computers are really good at carrying out repetitive tasks. They are accurate, fast, and can work for long periods of time. Humans on the other hand are not the best at repetitive tasks, in fact they are really inefficient.
+
+A computer that carries out a specific task very quickly has its uses. But if we can program it to do different tasks, then we can use the same computer for different purposes (This is MUCH more useful).
+
+First generation programming:
+Colossus was programmed using plugs and switches. This might represent a very early form of program.
+Early programming was very low-level, and very specific to the hardware. Every computer was programmed in a different way.
+This programming requires a very detailed knowledge of how the specific computer worked.
+
+ -Von Neumen Architecture
+
+Second generation programming:
+Programming moved to a higher level with the introduction of assembly languages. These can be thought of as short codes that correspond to the basic operations of the computer.
+Assembly languages are still very low-level and specific to the CPU. 
+
+Example of Assembly 
+
+Third Generation Programming:
+The next step in development was to move to a higher level, with programs expressed in a more human friendly format.
+This means the need is created for tools to translate a program into low level language capable for the CPU to understand.
+
+24:21
